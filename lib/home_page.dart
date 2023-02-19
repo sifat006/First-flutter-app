@@ -284,5 +284,3 @@ class HomePage extends StatelessWidget {
 }
 
 
-git config --global user.email "shahedulhasansifat@gmail.com"
-  git config --global user.name "sifat006"
